@@ -1,0 +1,4 @@
+c:\users\junaid\documents\visual studio 2013\Projects\CopyDirectory\CopyDirectory\bin\Debug\CopyDirectory.dll
+c:\users\junaid\documents\visual studio 2013\Projects\CopyDirectory\CopyDirectory\bin\Debug\CopyDirectory.pdb
+c:\users\junaid\documents\visual studio 2013\Projects\CopyDirectory\CopyDirectory\obj\Debug\CopyDirectory.dll
+c:\users\junaid\documents\visual studio 2013\Projects\CopyDirectory\CopyDirectory\obj\Debug\CopyDirectory.pdb
